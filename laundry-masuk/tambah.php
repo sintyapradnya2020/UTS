@@ -45,7 +45,7 @@
                             <div class="form-group">
                                 <label class="control-label col-sm-2">Nama Konsumen :</label>
                                 <div class="col-sm-10">
-                                    <input type="text" class="form-control" name="nama_konsumen" placeholder="Bheta" required>
+                                    <input type="text" class="form-control" name="nama_konsumen" placeholder="nama pelanggan" required>
                                 </div>
                             </div>
                             <div class="form-group">
@@ -57,7 +57,7 @@
                             <div class="form-group">
                                 <label class="control-label col-sm-2">Kategori :</label>
                                 <div class="col-sm-10">
-                                    <input type="text" class="form-control" name="kategori" placeholder="Normal">
+                                    <input type="text" class="form-control" name="kategori" placeholder="konvensional">
                                 </div>
                             </div>
                             <div class="form-group">
@@ -67,7 +67,7 @@
                                 </div>
                             </div>
                             <div class="text-center">
-                                <button class="btn btn-primary" name="tambah" value="Tambah" type="submit">Tambah</button>
+                                <button class="btn btn-primary" name="tambah" value="Tambah" type="submit">masukan data konsumen</button>
                             </div>
                         </form>                                    
                     </div>

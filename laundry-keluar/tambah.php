@@ -35,7 +35,7 @@
                                 <label class="control-label col-sm-2"">Laundry :</label>                                                
                                 <div class="col-sm-10">		
                                     <select class="form-control" name="id">    
-                                        <option> -- Pilih -- </option>
+                                        <option> --Pilih data laundry yang akan di keluarkan-- </option>
                                         <?php foreach ($exits as $exit) : ?>
                                         <option value="<?= $exit["id"]; ?>"><?= $exit["nama_konsumen"]; ?> - <?php $masuk = $exit['masuk']; $dateMasuk = date_create("$masuk"); echo date_format($dateMasuk,"d/m/Y"); ?> - <?= $exit["berat"]; ?> kg - <?= $exit["kategori"]; ?></option>
                                         <?php endforeach; ?>
@@ -43,7 +43,7 @@
                                 </div>
                             </div>
                             <div class="text-center">
-                                <button class="btn btn-primary" name="tambah" value="Tambah" type="submit">Tambah</button>
+                                <button class="btn btn-primary" name="tambah" value="Tambah" type="submit">masukkan data laundry yang akan di keluarkan</button>
                             </div>                                        
                         </form>                                    
                     </div>

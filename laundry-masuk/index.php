@@ -54,7 +54,7 @@
                             </tbody>
                         </table>
                         <div class="text-center">
-                            <a href="tambah.php"><button type="button" class="btn btn-primary">Tambah Data</button></a>
+                            <a href="tambah.php"><button type="button" class="btn btn-primary">Tambah Data untuk laundry masuk</button></a>
                         </div>
                     </div>
                 </div>                                                            

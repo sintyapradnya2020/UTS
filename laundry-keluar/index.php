@@ -68,7 +68,7 @@
                             </tbody>
                         </table>
                         <div class="text-center">
-                            <a href="../laundry-keluar/tambah.php"><button type="button" class="btn btn-primary">Tambah Data</button></a>
+                            <a href="../laundry-keluar/tambah.php"><button type="button" class="btn btn-primary">Tambah data untuk laundry keluar</button></a>
                         </div>
                     </div>
                 </div>                                                            
